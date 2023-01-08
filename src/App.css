@@ -22,3 +22,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.bgColor {
+background-image: linear-gradient(#65e0cd,#4a7fe5);
+}
+
+.bgBtn{
+  background-color: #4a7fe5;
+  color: white;
+  font-weight: bold;
+
+}
